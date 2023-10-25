@@ -1,0 +1,76 @@
+h2 {
+    font-size: 45px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+header{
+    height: 60px;
+    background-color: mintcream;
+}
+
+#cel1 {
+    background-color:rgb(83, 190, 62);
+}
+
+#cel2 {
+    background-color:aqua;
+}
+
+#cel3 {
+    background-color:rgb(209, 26, 72);
+}
+
+#cel4 {
+    background-color:rgb(255, 230, 0);
+}
+
+#cel5 {
+    background-color:blueviolet;
+}
+
+#cel6 {
+    background-color:coral
+}
+
+#cel7 {
+    background-color:darkslateblue;
+}
+
+#cel8 {
+    background-color:olive;
+}
+
+#cel9 {
+    background-color:cyan
+}
+
+#cel10 {
+    background-color: #f60
+}
+
+#cel11 {
+    background-color:wheat
+}
+
+#cel12 {
+    background-color:rgb(77, 25, 25);
+}
+
+#cel13 {
+    background-color:rgb(121, 34, 0);
+}
+
+#cel14 {
+    background-color:rgb(89, 94, 121);
+}
+
+#cel15 {
+    background-color:crimson;
+}
+
+#cel16 {
+    background-color:aquamarine;
+}
+footer {
+    height: 250px;
+    background-color: green;
+}
